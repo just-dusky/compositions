@@ -1,3 +1,5 @@
+# Chapter 1 - Servitude
+
 The massive oak door of the mansion swung open before Jason could even raise his hand to the brass knocker. Evelyn stood
 there, silhouetted against the grand foyer's dim light. She was again as severe and polished as she was on campus when
 she first confronted him. She wore wearing a tailored charcoal pantsuit that accentuated her lean, angular frame. As
@@ -60,6 +62,7 @@ into the huge house. Jason idly wondered why _she_ got to wear shoes inside whil
 socks. He looked again at the list clutched in his hand:
 
 > Saturday tasks:
+>
 > - Dust the library
 > - Polish the silver (dining room only)
 > - Water solarium plants
@@ -70,7 +73,7 @@ This was going to be a weird day.
 
 Jason found the library to be a room of contradictions. It was vast but cramped. It seemed so still, yet it was humming
 with a strange energy. The air seemed stale, yet it was spiced with the earthy tones of old leather, ink, and wood oil.
-Jason approached the large desk by the door carefullly as if any abrupt movements might wake the souls of the sleeping
+Jason approached the large desk by the door carefully as if any abrupt movements might wake the souls of the sleeping
 authors entombed here. On the center of the desk was a feather duster, a few clean rags, a can of furniture oil, and a
 black waist apron hemmed in lace. Jason's eyebrow shot up.
 

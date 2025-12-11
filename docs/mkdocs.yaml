@@ -1,0 +1,43 @@
+site_name: Dusky Writes Red
+site_url: http://writing.dusky.red
+repo_url: https://github.com/dusky-red/writing
+docs_dir: source
+theme:
+  name: material
+  font:
+    code: Fira Code
+  features:
+    - navigation.instant
+    - navigation.expand
+    - navigation.footer
+    - navigation.tracking
+    - navigation.footer
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: "black"
+      accent: "red"
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: "deep purple"
+      accent: "grey"
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+watch:
+  - ../docs/source
+  - mkdocs.yaml
+plugins:
+  search:
+    lang: en
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - toc:
+      toc_depth: 1

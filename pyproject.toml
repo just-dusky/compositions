@@ -1,0 +1,26 @@
+[project]
+name = "shelf"
+version = "0.1.0"
+description = "Dusky Writes Red"
+authors = [
+    {name = "Dusky", email ="the.dusktreader@gmail.com"},
+]
+readme = "README.md"
+license-files = [
+    "LICENSE.md",
+    "docs/LICENSE.md",
+]
+requires-python = ">=3.13"
+dependencies = [
+    "mkdocs-material>=9.6.9",
+]
+
+[project.urls]
+homepage = "https://writing.dusky.red"
+source = "https://github.com/dusky-red/writing"
+changelog = "https://github.com/dusky-red/writing/blob/main/CHANGELOG.md"
+
+[dependency-groups]
+dev = [
+    "pyclean>=3.1.0",
+]
